@@ -1,0 +1,9 @@
+﻿  3D Printer Filament Calculator.cpp
+D:\C++ Codes\3D Printer Filament Calculator\3D Printer Filament Calculator.cpp(158,31): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Codes\3D Printer Filament Calculator\3D Printer Filament Calculator.cpp(219,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Codes\3D Printer Filament Calculator\3D Printer Filament Calculator.cpp(221,15): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Codes\3D Printer Filament Calculator\3D Printer Filament Calculator.cpp(251,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Codes\3D Printer Filament Calculator\3D Printer Filament Calculator.cpp(266,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++ Codes\3D Printer Filament Calculator\3D Printer Filament Calculator.cpp(296,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Codes\3D Printer Filament Calculator\3D Printer Filament Calculator.cpp(298,23): warning C4018: '<': signed/unsigned mismatch
+  3D Printer Filament Calculator.vcxproj -> D:\C++ Codes\3D Printer Filament Calculator\Debug\3D Printer Filament Calculator.exe
